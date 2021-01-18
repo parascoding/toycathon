@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/toycathon/static/css/main.ae7f0c0c.chunk.css",
+    "main.js": "/toycathon/static/js/main.dd5bba0a.chunk.js",
+    "main.js.map": "/toycathon/static/js/main.dd5bba0a.chunk.js.map",
+    "runtime-main.js": "/toycathon/static/js/runtime-main.6c17052a.js",
+    "runtime-main.js.map": "/toycathon/static/js/runtime-main.6c17052a.js.map",
+    "static/js/2.7b3def90.chunk.js": "/toycathon/static/js/2.7b3def90.chunk.js",
+    "static/js/2.7b3def90.chunk.js.map": "/toycathon/static/js/2.7b3def90.chunk.js.map",
+    "index.html": "/toycathon/index.html",
+    "static/css/main.ae7f0c0c.chunk.css.map": "/toycathon/static/css/main.ae7f0c0c.chunk.css.map",
+    "static/js/2.7b3def90.chunk.js.LICENSE.txt": "/toycathon/static/js/2.7b3def90.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c17052a.js",
+    "static/js/2.7b3def90.chunk.js",
+    "static/css/main.ae7f0c0c.chunk.css",
+    "static/js/main.dd5bba0a.chunk.js"
+  ]
+}
